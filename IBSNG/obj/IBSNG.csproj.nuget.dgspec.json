@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\IBSNG.csproj": {}
+    "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\IBSNG.csproj": {}
   },
   "projects": {
-    "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\IBSNG.csproj": {
+    "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\IBSNG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\IBSNG.csproj",
+        "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\IBSNG.csproj",
         "projectName": "IBSNG",
-        "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\IBSNG.csproj",
+        "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\IBSNG.csproj",
         "packagesPath": "C:\\Users\\SMP\\.nuget\\packages\\",
-        "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\obj\\",
+        "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

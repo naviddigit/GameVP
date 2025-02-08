@@ -5729,11 +5729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\VpnServer\\SoftEther.csproj",
+      "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\VpnServer\\SoftEther.csproj",
       "projectName": "SoftEther",
-      "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\VpnServer\\SoftEther.csproj",
+      "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\VpnServer\\SoftEther.csproj",
       "packagesPath": "C:\\Users\\SMP\\.nuget\\packages\\",
-      "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\VpnServer\\obj\\",
+      "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\VpnServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

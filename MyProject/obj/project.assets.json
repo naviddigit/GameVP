@@ -6878,11 +6878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\MyProject\\ProjectLayer.csproj",
+      "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\MyProject\\ProjectLayer.csproj",
       "projectName": "ProjectLayer",
-      "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\MyProject\\ProjectLayer.csproj",
+      "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\MyProject\\ProjectLayer.csproj",
       "packagesPath": "C:\\Users\\SMP\\.nuget\\packages\\",
-      "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\MyProject\\obj\\",
+      "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\MyProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6903,14 +6903,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\DataService\\DataService.csproj": {
-              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\DataService\\DataService.csproj"
+            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\DataService\\DataService.csproj": {
+              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\DataService\\DataService.csproj"
             },
-            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\IBSNG.csproj": {
-              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\IBSNG.csproj"
+            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\IBSNG.csproj": {
+              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\IBSNG.csproj"
             },
-            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\VpnServer\\SoftEther.csproj": {
-              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\VpnServer\\SoftEther.csproj"
+            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\VpnServer\\SoftEther.csproj": {
+              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\VpnServer\\SoftEther.csproj"
             }
           }
         }

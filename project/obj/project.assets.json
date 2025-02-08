@@ -7167,11 +7167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\project\\UserApi.csproj",
+      "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\project\\UserApi.csproj",
       "projectName": "UserApi",
-      "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\project\\UserApi.csproj",
+      "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\project\\UserApi.csproj",
       "packagesPath": "C:\\Users\\SMP\\.nuget\\packages\\",
-      "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\project\\obj\\",
+      "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7192,11 +7192,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\IBSNG.csproj": {
-              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\IBSNG\\IBSNG.csproj"
+            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\IBSNG.csproj": {
+              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\IBSNG\\IBSNG.csproj"
             },
-            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\MyProject\\ProjectLayer.csproj": {
-              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\MyProject\\ProjectLayer.csproj"
+            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\MyProject\\ProjectLayer.csproj": {
+              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\MyProject\\ProjectLayer.csproj"
             }
           }
         }

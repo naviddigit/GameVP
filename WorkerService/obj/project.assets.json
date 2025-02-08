@@ -7705,11 +7705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\WorkerService\\WorkerService.csproj",
+      "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\WorkerService\\WorkerService.csproj",
       "projectName": "WorkerService",
-      "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\WorkerService\\WorkerService.csproj",
+      "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\WorkerService\\WorkerService.csproj",
       "packagesPath": "C:\\Users\\SMP\\.nuget\\packages\\",
-      "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\WorkerService\\obj\\",
+      "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\WorkerService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7730,8 +7730,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\MyProject\\ProjectLayer.csproj": {
-              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\MyProject\\ProjectLayer.csproj"
+            "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\MyProject\\ProjectLayer.csproj": {
+              "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\MyProject\\ProjectLayer.csproj"
             }
           }
         }

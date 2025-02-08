@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\DataService\\DataService.csproj": {}
+    "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\DataService\\DataService.csproj": {}
   },
   "projects": {
-    "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\DataService\\DataService.csproj": {
+    "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\DataService\\DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\DataService\\DataService.csproj",
+        "projectUniqueName": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\DataService\\DataService.csproj",
         "projectName": "DataService",
-        "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\DataService\\DataService.csproj",
+        "projectPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\DataService\\DataService.csproj",
         "packagesPath": "C:\\Users\\SMP\\.nuget\\packages\\",
-        "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project\\GameVP\\DataService\\obj\\",
+        "outputPath": "D:\\CLEAR\\Others\\Panahi\\API-Backend\\repos\\Github-Project-1\\GameVP\\DataService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
