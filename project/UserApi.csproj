@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.27.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\Test\" />
+    <Folder Include="Controllers\User\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IBSNG\IBSNG.csproj" />
+    <ProjectReference Include="..\MyProject\ProjectLayer.csproj" />
+  </ItemGroup>
+
+</Project>

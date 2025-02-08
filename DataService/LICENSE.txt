@@ -1,0 +1,57 @@
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.[1]
+
+LIC DATA : 
+
+NAVID Old : Scaffold-DbContext 'Data Source=82.115.24.21,2525;Initial Catalog=SoftGame;Persist Security Info=True;User ID=sa;Password=Aaq1234567;Connect Timeout=120' Microsoft.EntityFrameworkCore.SqlServer -OutputDir "Entity" -ContextDir "Data" -DataAnnotations -Force
+
+NAVID  : Scaffold-DbContext 'Data Source=185.126.11.237,2525;Initial Catalog=SoftGame;Persist Security Info=True;User ID=sa;Password=Aaq1234567;Connect Timeout=120' Microsoft.EntityFrameworkCore.SqlServer -OutputDir "Entity" -ContextDir "Data" -DataAnnotations -Force
+PANAHI : Scaffold-DbContext 'Data Source=185.126.6.10,2525;Initial Catalog=SoftGame;Persist Security Info=True;User ID=sa;Password=Aaq1234567;Connect Timeout=120' Microsoft.EntityFrameworkCore.SqlServer -OutputDir "Entity" -ContextDir "Data" -DataAnnotations -Force
+
+
+
+
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+
+
+            #if DEBUG
+                //Console.WriteLine("Mode=Debug");
+                string DataSource = "Data Source=82.115.18.186;Initial Catalog=rikofootball.com_new;Persist Security Info=True;User ID=sa;Password=Aaq1234567;Connect Timeout=120";
+
+            #else
+                string DataSource = "Data Source=82.115.24.21;Initial Catalog=rikofootball.com_new;Persist Security Info=True;User ID=sa;Password=Aaq1234567;Connect Timeout=120";
+                //Console.WriteLine("Mode=Release");
+
+            #endif
+
+                string _dns = Dns.GetHostName().ToString();
+                if ((_dns == "RK-Developer") || _dns == "RK-MAIN")
+                    DataSource = "Data Source=localhost;Initial Catalog=rikofootball.com_new;Persist Security Info=True;User ID=sa;Password=Aaq1234567;Connect Timeout=120";
+
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+                optionsBuilder.UseSqlServer(DataSource);
+            }
+        }

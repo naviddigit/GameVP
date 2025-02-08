@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = SoftEther.VPNServerRpc
+build_property.ProjectDir = D:\CLEAR\Others\Panahi\API-Backend\repos\Github-Project\GameVP\VpnServer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
